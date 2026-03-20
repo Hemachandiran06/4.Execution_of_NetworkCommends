@@ -28,5 +28,23 @@ This commands includes
 
 ## Output
 
-## Result
+**netstat**
+<img width="1920" height="1200" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/0229cdc4-a825-4554-b5da-908fd542213c" />
+
+**ipconfig**
+## Result<img width="1920" height="1200" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/9223ea1a-8d99-45ab-8829-e0e218530a7f" />
+
+**ping**
+<img width="1920" height="1200" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/552afa6b-5b31-47ea-b23d-c0c880316d50" />
+
+**hostname**
+<img width="945" height="135" alt="Screenshot 2026-03-20 110610" src="https://github.com/user-attachments/assets/8a888fc1-4ce3-488c-ae83-6841706f958c" />
+
+**arp**
+<img width="1919" height="875" alt="Screenshot 2026-03-20 110638" src="https://github.com/user-attachments/assets/885bb702-e9a5-46cb-80c1-fbf1e3e60bf3" />
+
+**systeminfo**
+<img width="1920" height="1200" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/c7717a23-aa30-4bf8-af80-f6f6d9a384a1" />
+
+ ## Result
 Thus Execution of Network commands Performed 
